@@ -1,0 +1,8 @@
+# Declare files that must always be treated as binary
+*.jar binary
+*.keystore binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.so binary
+*.aar binary
