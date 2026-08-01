@@ -1,0 +1,8 @@
+{
+  "name": "Remix Vikas",
+  "description": "Agriculture hardware store app connecting local farmers and buyers with equipment, tools, irrigation, seeds, and farm supplies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
